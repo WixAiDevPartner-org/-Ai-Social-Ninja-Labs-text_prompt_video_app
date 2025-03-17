@@ -2,7 +2,7 @@
 
 # Ai Social Ninja Lab Studios
 
-This is the official repository for LTX-Video.
+This is the official repository for Ai Social Ninja Labs.
 
 [Website](https://www.lightricks.com/ltxv) |
 [Model](https://huggingface.co/Lightricks/LTX-Video) |
@@ -30,7 +30,7 @@ This is the official repository for LTX-Video.
 
 # Introduction
 
-LTX-Video is the first DiT-based video generation model that can generate high-quality videos in *real-time*.
+Ai Social Ninja Labs is the first DiT-based video generation model that can generate high-quality videos in *real-time*.
 It can generate 24 FPS videos at 768x512 resolution, faster than it takes to watch them.
 The model is trained on a large-scale dataset of diverse videos and can generate high-resolution videos
 with realistic and diverse content.
@@ -54,10 +54,10 @@ The model supports text-to-image, image-to-video, keyframe-based animation, vide
 - Automatic prompt enhancement
 
 ## February 20th, 2025: More inference options
-- Improve STG (Spatiotemporal Guidance) for LTX-Video
+- Improve STG (Spatiotemporal Guidance) for Ai Social Ninja Labs
 - Support MPS on macOS with PyTorch 2.3.0
-- Add support for 8-bit model, LTX-VideoQ8
-- Add TeaCache for LTX-Video
+- Add support for 8-bit model, Ai Social Ninja LabsQ8
+- Add TeaCache for Ai Social Ninja Labs
 - Add [ComfyUI-LTXTricks](#comfyui-integration)
 - Add Diffusion-Pipe
 
@@ -67,14 +67,14 @@ The model supports text-to-image, image-to-video, keyframe-based animation, vide
 ## December 20th, 2024: New checkpoint v0.9.1
 - Release a new checkpoint v0.9.1 with improved quality
 - Support for STG / PAG
-- Support loading checkpoints of LTX-Video in Diffusers format (conversion is done on-the-fly)
+- Support loading checkpoints of Ai Social Ninja Labs in Diffusers format (conversion is done on-the-fly)
 - Support offloading unused parts to CPU
 - Support the new timestep-conditioned VAE decoder
 - Reference contributions from the community in the readme file
 - Relax transformers dependency
 
 ## November 21st, 2024: Initial release v0.9.0
-- Initial release of LTX-Video
+- Initial release of Ai Social Ninja Labs
 - Support text-to-video and image-to-video generation
 
 # Quick Start Guide
